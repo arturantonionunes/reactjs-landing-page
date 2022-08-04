@@ -12,31 +12,31 @@ import {
   NavBtnLink,
 } from "./NavbarElements";
 
-const Navbar = () => {
+const Navbar = ({ toggle }) => {
   return (
     <>
       <Nav>
         <NavbarContainer>
-          <NavLogo to="/">dolla</NavLogo>
-          <MobileIcon>
+          <NavLogo to="/">ubabank</NavLogo>
+          <MobileIcon onClick={toggle}>
             <FaBars />
           </MobileIcon>
           <NavMenu>
             <NavItem>
-              <NavLinks to="about">About</NavLinks>
+              <NavLinks to="sobre">Sobre</NavLinks>
             </NavItem>
             <NavItem>
-              <NavLinks to="siscover">Discover</NavLinks>
+              <NavLinks to="descubra">Descubra</NavLinks>
             </NavItem>
             <NavItem>
-              <NavLinks to="services">Services</NavLinks>
+              <NavLinks to="servicos">Serviços</NavLinks>
             </NavItem>
             <NavItem>
-              <NavLinks to="signup">Sing Up</NavLinks>
+              <NavLinks to="cadastrar">Cadastrar</NavLinks>
             </NavItem>
           </NavMenu>
           <NavBtn>
-            <NavBtnLink to="/signin">Sign In</NavBtnLink>
+            <NavBtnLink to="/entrar">Entrar</NavBtnLink>
           </NavBtn>
         </NavbarContainer>
       </Nav>
