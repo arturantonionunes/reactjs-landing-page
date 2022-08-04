@@ -33,11 +33,11 @@ export const NavLogo = styled(LinkR)`
   color: #fff;
   justify-self: flex-start;
   cursor: pointer;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   display: flex;
   align-items: center;
   margin-left: 24px;
-  font-weitght: bold;
+  font-weight: 700;
   text-decoration: none;
 `;
 
@@ -120,4 +120,8 @@ export const NavBtnLink = styled(LinkR)`
     background: #fff;
     color: #010606;
   }
+`;
+
+export const Span = styled.span`
+  color: #cf8731;
 `;

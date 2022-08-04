@@ -10,6 +10,7 @@ import {
   NavLinks,
   NavBtn,
   NavBtnLink,
+  Span,
 } from "./NavbarElements";
 
 const Navbar = ({ toggle }) => {
@@ -17,7 +18,9 @@ const Navbar = ({ toggle }) => {
     <>
       <Nav>
         <NavbarContainer>
-          <NavLogo to="/">ubabank</NavLogo>
+          <NavLogo to="/">
+            <Span>uba</Span>bank
+          </NavLogo>
           <MobileIcon onClick={toggle}>
             <FaBars />
           </MobileIcon>

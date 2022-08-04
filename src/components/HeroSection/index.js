@@ -10,6 +10,7 @@ import {
   HeroBtnWrapper,
   ArrowForward,
   ArrowRight,
+  Span,
 } from "./HeroElements";
 import { Button } from "../ButtonElement";
 
@@ -28,8 +29,8 @@ const HeroSection = () => {
       <HeroContent>
         <HeroH1>O Banco Digital do Litoral </HeroH1>
         <HeroP>
-          Crie sua conta agora e receba R$200,00 de crétido para o pagamento da
-          primeira fatura.
+          Crie sua conta agora e receba <Span>R$200,00</Span> de crétido para o
+          pagamento da primeira fatura.
         </HeroP>
         <HeroBtnWrapper>
           <Button
