@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github-page/static/css/main.d7da34c1.css",
-    "main.js": "/github-page/static/js/main.25a715fc.js",
-    "static/media/video.mp4": "/github-page/static/media/video.425c928d73a3286f36d7.mp4",
-    "static/media/svg-1.svg": "/github-page/static/media/svg-1.cfcbd2cedeae3d91489d9a5397cd3d14.svg",
-    "index.html": "/github-page/index.html",
-    "main.d7da34c1.css.map": "/github-page/static/css/main.d7da34c1.css.map",
-    "main.25a715fc.js.map": "/github-page/static/js/main.25a715fc.js.map"
+    "main.css": "/reactjs-landing-page/static/css/main.d7da34c1.css",
+    "main.js": "/reactjs-landing-page/static/js/main.1eb316b9.js",
+    "static/media/video.mp4": "/reactjs-landing-page/static/media/video.425c928d73a3286f36d7.mp4",
+    "static/media/svg-1.svg": "/reactjs-landing-page/static/media/svg-1.cfcbd2cedeae3d91489d9a5397cd3d14.svg",
+    "index.html": "/reactjs-landing-page/index.html",
+    "main.d7da34c1.css.map": "/reactjs-landing-page/static/css/main.d7da34c1.css.map",
+    "main.1eb316b9.js.map": "/reactjs-landing-page/static/js/main.1eb316b9.js.map"
   },
   "entrypoints": [
     "static/css/main.d7da34c1.css",
-    "static/js/main.25a715fc.js"
+    "static/js/main.1eb316b9.js"
   ]
 }
