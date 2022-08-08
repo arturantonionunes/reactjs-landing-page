@@ -1,17 +1,20 @@
 {
   "files": {
     "main.css": "/reactjs-landing-page/static/css/main.d7da34c1.css",
-    "main.js": "/reactjs-landing-page/static/js/main.b9632550.js",
+    "main.js": "/reactjs-landing-page/static/js/main.0bff9bec.js",
     "static/media/video.mp4": "/reactjs-landing-page/static/media/video.425c928d73a3286f36d7.mp4",
     "static/media/svg-3.svg": "/reactjs-landing-page/static/media/svg-3.3f94fdcf764b29bf1ee397b42ea8cf65.svg",
+    "static/media/svg-5.svg": "/reactjs-landing-page/static/media/svg-5.c9c4560f21cbac8ea02b92e26bf675e8.svg",
     "static/media/svg-2.svg": "/reactjs-landing-page/static/media/svg-2.6001fe20fcd8578c97c15a8ae51dd7f7.svg",
+    "static/media/svg-4.svg": "/reactjs-landing-page/static/media/svg-4.bb792651b7ece871b3839e6bc894861c.svg",
+    "static/media/svg-6.svg": "/reactjs-landing-page/static/media/svg-6.f00e06416e203039fd5ee5ccd213dd18.svg",
     "static/media/svg-1.svg": "/reactjs-landing-page/static/media/svg-1.cfcbd2cedeae3d91489d9a5397cd3d14.svg",
     "index.html": "/reactjs-landing-page/index.html",
     "main.d7da34c1.css.map": "/reactjs-landing-page/static/css/main.d7da34c1.css.map",
-    "main.b9632550.js.map": "/reactjs-landing-page/static/js/main.b9632550.js.map"
+    "main.0bff9bec.js.map": "/reactjs-landing-page/static/js/main.0bff9bec.js.map"
   },
   "entrypoints": [
     "static/css/main.d7da34c1.css",
-    "static/js/main.b9632550.js"
+    "static/js/main.0bff9bec.js"
   ]
 }
