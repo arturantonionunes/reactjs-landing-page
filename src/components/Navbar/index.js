@@ -18,7 +18,7 @@ const Navbar = ({ toggle }) => {
     <>
       <Nav>
         <NavbarContainer>
-          <NavLogo to="/">
+          <NavLogo to="/reactjs-landing-page">
             <Span>uba</Span>bank
           </NavLogo>
           <MobileIcon onClick={toggle}>
