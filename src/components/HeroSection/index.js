@@ -40,7 +40,7 @@ const HeroSection = () => {
             primary="true"
             dark="true"
           >
-            Cadastre-se {hover ? <ArrowRight /> : <ArrowForward />}
+            Cadastre-se {hover ? <ArrowForward /> : <ArrowRight />}
           </Button>
         </HeroBtnWrapper>
       </HeroContent>
