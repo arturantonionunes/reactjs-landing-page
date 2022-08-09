@@ -39,6 +39,11 @@ const HeroSection = () => {
             onMouseLeave={onHover}
             primary="true"
             dark="true"
+            smooth={true}
+            duration={800}
+            spy={true}
+            exact="true"
+            offset={-80}
           >
             Cadastre-se {hover ? <ArrowForward /> : <ArrowRight />}
           </Button>
